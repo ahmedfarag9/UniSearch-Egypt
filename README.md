@@ -9,11 +9,9 @@ Download the app on google play --> https://play.google.com/store/apps/details?i
 
 ## Preview
 
-<div style="width:200px ; height:200px">
 
-![](images/uniSearch.png)
+<img src="images/uniSearch.png" width="250" />
 
-<div>
 
 ---
 
